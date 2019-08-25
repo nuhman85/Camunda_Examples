@@ -16,7 +16,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<name>SimpleCamundaBPM</name>
-	<description>This is a Simple Camnuda BPM within a Spring Boot Application.</description>
+	<description>This is a Simple Camunda BPM within a Spring Boot Application.</description>
 
 	<properties>
 		<java.version>1.8</java.version>
